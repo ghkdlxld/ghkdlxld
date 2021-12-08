@@ -1,5 +1,5 @@
 
-<center style="font-weight:bold; font-size:20px;">🥽 Sookyeong Oh  /  ghkdlxld🍀</center>
+<center>🥽 Sookyeong Oh  /  ghkdlxld🍀</center>
 
 <center>Seoul National University Of Science And Technology</center>
 <center>- Department of Electronic and IT Media Engineering (2016.3 ~ 2021.8) </center><br>
@@ -8,8 +8,9 @@
 
 
 
-
-<center style="font-weight:bold; font-size:20px;">📚 Tech Stack 📚</center><br>
+<br>
+### 📚 Tech Stack 📚
+<br>
 <div align=center>
 <img src="https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/-Vue.js-4FC08D?&logo=vue.js&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white"/><br>
