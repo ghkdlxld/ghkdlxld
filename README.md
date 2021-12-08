@@ -1,14 +1,17 @@
 
-<center>🥽 Sookyeong Oh  /  ghkdlxld🍀</center>
+<div align="center">
+<br>
+    
+### 🥽 Sookyeong Oh  /  ghkdlxld🍀
 
-<center>Seoul National University Of Science And Technology</center>
-<center>- Department of Electronic and IT Media Engineering (2016.3 ~ 2021.8) </center><br>
-<center>SSAFY - Samsung SW Academy For Youth 6th  (2021.7 ~ 2022.6) </center>
-
-
+ Seoul National University Of Science And Technology <br>
+    \- Department of Electronic and IT Media Engineering (2016.3 ~ 2021.8) <br>
+ SSAFY - Samsung SW Academy For Youth 6th  (2021.7 ~ 2022.6)
 
 
 <br>
+
+
 ### 📚 Tech Stack 📚
 <br>
 <div align=center>
@@ -20,10 +23,7 @@
 
 
 
+<br>
+<br>
 
-
-<div align=center>
-    <img style="width:380px;" src="https://github-readme-stats.vercel.app/api?username=ghkdlxld&show_icons=true&&hide_border=true&theme=react" align="left" style="width: 100%" />
-    <img style="width:380px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdlxld&show_icons=true&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" /></div>
-
-
+<img style="width:320px;" src="https://github-readme-stats.vercel.app/api?username=ghkdlxld&show_icons=true&&hide_border=false&theme=vue" align="center" style="width: 100%" /><img style="width:320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdlxld&show_icons=true&hide_border=false&layout=compact&theme=vue" align="center" style="width: 100%" />
