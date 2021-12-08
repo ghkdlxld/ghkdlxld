@@ -21,7 +21,7 @@
 
 
 
-<div style="display: flex; justify-content: center;">
+<div align=center>
     <img style="width:380px;" src="https://github-readme-stats.vercel.app/api?username=ghkdlxld&show_icons=true&&hide_border=true&theme=react" align="left" style="width: 100%" />
     <img style="width:380px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdlxld&show_icons=true&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" /></div>
 
