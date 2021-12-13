@@ -2,7 +2,7 @@
 <div align="center">
 <br>
     
-### 🥽 Sookyeong Oh  /  ghkdlxld🍀
+### 🥽 Sookyeong Oh  /  ghkdlxld 🍀
 
  Seoul National University Of Science And Technology <br>
     \- Department of Electronic and IT Media Engineering (2016.3 ~ 2021.8) <br>
