@@ -4,7 +4,7 @@
          
 ### 🥽 Sookyeong Oh  /  Frontend Developer 🍀
 
- Seoul National University Of Science And Technology <br>
+ Seoul National University of Science and Technology <br>
     \- Department of Electronic and IT Media Engineering (2016.3 ~ 2021.8) <br>
  SSAFY - Samsung SW Academy For Youth 6th  (2021.7 ~ 2022.6)
     
