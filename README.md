@@ -2,7 +2,7 @@
 <div align="center">
 <br>
          
-### 🥽 Sookyeong Oh  /  Frontend Developer 🍀
+### 🥽 Sookyeong Oh  /  Web Developer 🍀
 
  Seoul National University of Science and Technology <br>
     \- Department of Electronic and IT Media Engineering (2016.3 ~ 2021.8) <br>
