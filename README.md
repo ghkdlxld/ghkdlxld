@@ -7,7 +7,7 @@
  **Seoul National University of Science and Technology** <br>
     \- Department of Electronic and IT Media Engineering (2016.3 ~ 2021.8) <br>
  **SSAFY** - Samsung SW Academy For Youth 6th  (2021.7 ~ 2022.6) <br>
- **LDCC** (2022.11.21 ~ )
+ **LDCC** (2022.11 ~ )
         
   
 <br>
