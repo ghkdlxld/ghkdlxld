@@ -2,11 +2,12 @@
 <div align="center">
 <br>
          
-### 🥽 Sookyeong Oh  /  Web Developer 🍀
+### 🥽 Sookyeong Oh  /  Developer 🍀
 
  **Seoul National University of Science and Technology** <br>
     \- Department of Electronic and IT Media Engineering (2016.3 ~ 2021.8) <br>
  **SSAFY** - Samsung SW Academy For Youth 6th  (2021.7 ~ 2022.6) <br>
+ **Lotte Innovate** - Software Developer (2022.11 ~ ) <br>
         
   
 <br>
