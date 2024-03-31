@@ -25,5 +25,3 @@
 
 <br>
 <br>
-
-<img style="width:320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdlxld&show_icons=true&hide_border=false&layout=compact&theme=vue" align="center" style="width: 100%" />
